@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Space+Grotesk:wght@300..700&display=swap');
+*{
+    box-sizing: 0;
+    background-color: black;
+;
+}
+
+body{
+    font-family: "Funnel Display", sans-serif;
+    color: azure;
+    text-align: center;
+}
+img{
+    max-width: 70%;
+}
+header{
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+button{
+    background-color: azure;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+button:active{
+    background-color: rgb(183, 60, 8);
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+button:hover{
+    background-color: rgb(183, 60, 8);
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+button:focus{
+    background-color: rgb(183, 60, 8);
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
