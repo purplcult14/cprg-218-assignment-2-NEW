@@ -53,7 +53,19 @@ p{
         flex-direction: column;
         margin: 20px;
     }
-    #button {
-        padding: 0px;
+    #buttons {
+        intro
+    }
+    #intro {
+        margin-bottom: 15px;
+    }
+    #first {
+        margin-bottom: 15px;
+    }
+    #second {
+        margin-bottom: 15px;
+    }
+    #third {
+        margin-bottom: 15px;
     }
 }
