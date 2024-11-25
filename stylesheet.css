@@ -46,3 +46,10 @@ p{
     padding-left: 10%;
     padding-right: 10%;
 }
+
+@media screen and (max-width: 550px){
+    section {
+        display: flex;
+        flex-direction: column;
+    }
+}
